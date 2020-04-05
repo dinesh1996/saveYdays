@@ -2,6 +2,7 @@
   "bracketSpacing": true,
   "jsxBracketSameLine": true,
   "semi": false,
+  "semicolons": false,
   "htmlWhitespaceSensitivity": "ignore",
   "printWidth": 120,
   "proseWrap": "never",
